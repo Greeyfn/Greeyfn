@@ -1,4 +1,4 @@
-<img  alt="Coding"  width="100%" height="100%" src="http://greyfin.ir/img/IMG_1739.JPG"/>
+<img  alt="Coding"  src="http://greyfin.ir/img/IMG_1739.JPG](https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif"/>
 <h1 align="center">Hi 👋, I'm Erfan</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"/>
